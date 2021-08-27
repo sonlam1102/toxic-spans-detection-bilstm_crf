@@ -6,6 +6,7 @@ Model used: BiLSTM-CRF and ToxicBERT
 + ToxicBERT: for toxic classificaion    
 
 The dataset can be found here: https://github.com/ipavlopoulos/toxic_spans    
+Please contact this email if you need further information: sonlt@uit.edu.vn 
 
 Publication:   
 ```
